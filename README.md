@@ -3,4 +3,4 @@
 <img src="https://github.com/jthomas2035/Pygame-project/blob/master/Game_Plans/gaamepic1.PNG" width="250" height="250">
 <img src="https://github.com/jthomas2035/Pygame-project/blob/master/Game_Plans/gamepic2.PNG" width="250" height="250">
 <img src="https://github.com/jthomas2035/Pygame-project/blob/master/Game_Plans/Capture.PNG" width="250" height= "250">
-<p> hi i am Javonnes previous worker...dont work for him becuz he</p>
+<p>Help Spongebob, using the arrow keys, catch the jellyfish and avoid Plankton on an exciting adventure through Jellyfish Fields.</p>
